@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UTSKhirana</string>
+    <string name="nama">Khirana Dwicahyo \n (19523134) \n PAB kelas D</string>
+    <string name="H_terimaPesan">Halaman Terima Pesan</string>
+    <string name="H_profile">Halaman Profile</string>
+    <string name="nama_link">Khirana Dwicahyo \n (19523134) \n PAB kelas D \n khirana.dwicahyo@students.uii.ac.id</string>
+    <string name="H_beranda">Halaman Beranda</string>
+    <string name="hint_isiPesan">Tulis pesan disini...</string>
+    <string name="B_kirim">Kirim</string>
+</resources>
